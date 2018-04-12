@@ -1,0 +1,13 @@
+{
+  "name": "parcel-demo1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev":"npx parcel index.html",
+    "build":"npx parcel build"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.7.0"
+  }
+}
